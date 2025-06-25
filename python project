@@ -1,0 +1,22 @@
+Revert "Added the atm simulation project"
+
+This reverts commit b89b11ef27e6950cf930324f449082e8f67f5753.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is behind 'origin/main' by 1 commit, and can be fast-forwarded.
+#   (use "git pull" to update your local branch)
+#
+# Changes to be committed:
+#	deleted:    calculator.py
+#	deleted:    dice.py
+#	deleted:    grade.py
+#	deleted:    numberguess.py
+#	deleted:    qrgenerator.py
+#	deleted:    rock.py
+#
+# Untracked files:
+#	atm_simulator.py
+#
