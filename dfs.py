@@ -1,4 +1,4 @@
-#implementation of bfs algorithm using python 
+#implementation of dfs algorithm using python 
 
 MAX_VERTICES = 100
 
