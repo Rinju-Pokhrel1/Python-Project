@@ -78,6 +78,6 @@ if __name__ == "__main__":
     g.add_edge(1, 4)
     g.add_edge(2, 5)
 
-    print("BFS :")
+    print("DFS :")
     
     dfs(g, 0)
