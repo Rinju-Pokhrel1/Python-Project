@@ -1,6 +1,6 @@
 # Python‑Project
 
-A small Python project built during my learning journey — simple, clear, and focused on practising Python fundamentals.
+A small Python project built during my learning journey — simple, clear, and focused on practising Python fundamentals..
 
 ## 🎯 What is this
 
